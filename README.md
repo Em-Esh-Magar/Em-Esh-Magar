@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=em-esh-magar" alt="em-esh-magar" /></a> </p>
 
-- 🌱 I’m currently learning **Python
+- 🌱 I’m currently learning Python
 
 - 📫 How to reach me **emeshthapamagar@gmail.com**
 
