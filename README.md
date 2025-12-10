@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=em-esh-magar" alt="em-esh-magar" /></a> </p>
 
 - 👾 Ask me about Python, MySql, C/C++, Java.
-- 🌱 I’m currently learning Data Visualization.
+- 🌱 I’m currently learning AI/ML.
 
 - 📫 How to reach me **emeshthapamagar@gmail.com**
 
